@@ -1,6 +1,6 @@
 # Olá, me chamo Leonardo e sou desenvolvedor focado em front-end, aplicações, sistemas e um toquinho de design (UI/UX)
 
-![Banner do Perfil](banner.png)
+![Banner do Perfil](banner.jpeg)
 
 ---
 
