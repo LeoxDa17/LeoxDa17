@@ -1,7 +1,10 @@
-# Olá, bem-vindo(a) ao meu perfil!
+# Olá, viajante da web! 🚀 Bem-vindo(a) ao meu universo criativo.
 
 ![Banner do Perfil](banner.jpeg)
 
+Eu sou a pessoa que olha para um site e pensa: *"Isso é legal, mas e se esse botão fizesse um mortal para trás?"*. Sou designer e desenvolvedor(a) focado(a) em criar experiências que não apenas funcionam, mas encantam. 
+
+Para mim, código e design andam de mãos dadas — um não vive sem o outro (e ambos choram quando o alinhamento centralizado no CSS dá errado).
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
@@ -17,17 +20,17 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoxDa17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoxDa17&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-* **[Nome do Projeto 1]([link-do-repositorio](https://github.com/LeoxDa17/projeto-blur))**: Blur é uma plataforma de e-commerce moderna desenvolvida para marcas de roupas urbanas. O projeto cobre todo o fluxo de compra — da vitrine ao checkout — com foco em performance, acessibilidade e uma identidade visual forte baseada no contraste Preto & Branco, referência direta à estética streetwear contemporânea.
+* **[Loja Blur]([link-do-repositorio](https://github.com/LeoxDa17/projeto-blur))**: Blur é uma plataforma de e-commerce moderna desenvolvida para marcas de roupas urbanas. O projeto cobre todo o fluxo de compra — da vitrine ao checkout — com foco em performance, acessibilidade e uma identidade visual forte baseada no contraste Preto & Branco, referência direta à estética streetwear contemporânea.
 
-* **[Nome do Projeto 2]([link-do-repositorio](https://github.com/DiniZzS2/Requisi-o-Valid))**: Projeto realizado para melhoria de processos internos, focado na criação de um sistema de cadastro, requisição e controle de estoque de Uniformes.
+* **[Projeto de melhoria de processos]([link-do-repositorio](https://github.com/DiniZzS2/Requisi-o-Valid))**: Projeto realizado para melhoria de processos internos, focado na criação de um sistema de cadastro, requisição e controle de estoque de Uniformes.
 
 ---
 
