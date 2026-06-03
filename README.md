@@ -17,15 +17,6 @@ Para mim, código e design andam de mãos dadas — um não vive sem o outro (e 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoxDa17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoxDa17&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="180px"/>
-</p>
-
----
-
 ## 🚀 Projetos em Destaque
 
 * **[Loja Blur]([link-do-repositorio](https://github.com/LeoxDa17/projeto-blur))**: Blur é uma plataforma de e-commerce moderna desenvolvida para marcas de roupas urbanas. O projeto cobre todo o fluxo de compra — da vitrine ao checkout — com foco em performance, acessibilidade e uma identidade visual forte baseada no contraste Preto & Branco, referência direta à estética streetwear contemporânea.
