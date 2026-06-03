@@ -1,4 +1,4 @@
-# Olá, viajante da web! 🚀 Bem-vindo(a) ao meu universo criativo.
+# Leonardo Araújo 💻
 
 ![Banner do Perfil](banner.jpeg)
 
