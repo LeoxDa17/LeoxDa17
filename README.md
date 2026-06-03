@@ -1,8 +1,8 @@
 ![Banner do Perfil](banner.jpeg)
 
 ---
-
-
+# Olá, bem-vindo(a) ao meu perfil! 🚀
+---
 ## 🛠️ Tecnologias e Ferramentas
 
 | Categoria | Competências |
