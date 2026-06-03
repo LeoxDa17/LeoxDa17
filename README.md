@@ -1,8 +1,9 @@
 # Olá, me chamo Leonardo e sou desenvolvedor focado em front-end, aplicações, sistemas e um toquinho de design (UI/UX)
 
-![Banner do Perfil](https://capsule-render.vercel.app/canvas?type=waving&color=gradient&height=200&section=header&text=UI/UX%20Design%20&%20Front-end%20Development✨&fontSize=40&animation=fadeIn)
+![Banner do Perfil](https://github.com/user-attachments/assets/adc2c50a-a830-4d90-bf06-9ef2ac875042")
 
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
